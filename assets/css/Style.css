@@ -1,0 +1,203 @@
+#res {
+	background:url("../images/ima7.png");
+	background-size: cover;
+}
+/*#ques {
+	background:url("../images/5.jpg");
+	background-size:cover;
+}*/
+#resform {
+	margin: 2% 28%;
+	padding: 4%;
+	text-align: center;
+	background:rgba(0, 0, 0, 0.56);
+	width: 400px;
+}
+#resform input[type=text] {
+	margin: 10px;
+	width: 90%;
+	background: rgba(128, 128, 128, 0.65);
+	color: white;
+	border: 0;
+	padding: 10px;
+	height: 20px;
+}
+#resform input[type=submit] {
+	margin: 10px;
+	width: 95%;
+	color: black;
+	background: rgb(25, 151, 154);
+	border: 0;
+	padding: 10px;
+	outline: 0;
+}
+#resform input[type=submit]:hover {
+	background: #2ffbff;
+}
+#resform input::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #fff;
+    opacity:  2;  /* Brightness modifier */
+}
+#resform input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #fff;
+   opacity:  2;
+}
+#resform input::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #fff;
+   opacity:  1;
+}
+#resform input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    #fff;
+}
+#resform input::-ms-input-placeholder { /* Microsoft Edge */
+   color:    #fff;
+}
+#resform p {
+	color: white;
+	font-size: 20px;
+	margin: -22px;
+}
+#resform div {
+	margin: 2%;
+}
+#genlab {
+	font-size: 15px;
+	color: white;
+	padding: 10px;
+	float: left;
+}
+#resform lable{
+	margin: 0 110px 0 0;
+}
+#log {
+	background: url("../images/ima2.jpg");
+	background-size: cover;
+}
+#wel {
+	background:url(../images/ima6.jpeg);
+
+
+
+	background-size: cover;
+}
+#login{
+	margin: 4% 2%;
+	padding: 2%;
+	text-align: center;
+	background:rgba(0, 0, 0, 0.56);
+	width: 400px;
+}
+#login p {
+	color: white;
+	font-size: 20px;
+
+}
+#sgn {
+	margin: 10px;
+}
+#login input[type=text] {
+	margin: 10px;
+	width: 90%;
+	background: rgba(128, 128, 128, 0.65);
+	color: white;
+	border: 0;
+	padding: 10px;
+	height: 20px;
+}
+#login input[type=submit] {
+	margin: 10px;
+	width: 95%;
+	color: white;
+	background: #219a19;
+	border: 0;
+	padding: 10px;
+	outline: 0;
+}
+#login input[type=submit]:hover {
+	background: #adff2f;
+}
+#login input::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #fff;
+    opacity:  2;  /* Brightness modifier */
+}
+#login input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #fff;
+   opacity:  2;
+}
+#login input::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #fff;
+   opacity:  1;
+}
+#login input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    #fff;
+}
+#login input::-ms-input-placeholder { /* Microsoft Edge */
+   color:    #fff;
+}
+#fgpswd {
+	text-align: right;
+}
+#fgpswd a {
+	color: white;
+	text-decoration: none; 
+	margin-right:10px; 
+}
+pre {
+	color:white;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px white;
+	margin :80px 250px;
+	font-size: 37px;
+	font-family: verdana;
+}
+ul#btn{
+	list-style: none;
+	float:  right;
+}
+#btn li{
+	margin: 10px;
+	
+}
+#btn button {
+	width: 150px;
+	background :rgba(66, 54, 66, 0.39);
+	padding: 9px 25px;
+	border:0;
+	text-align: center;
+	border-radius: 25px;
+	color:white;
+	font-size:16px;
+}
+#btn button:hover {
+	background-color: rgba(191, 130, 238, 0.61);
+} 
+/*#quesform  {
+	margin: 90px 400px;
+	background-color: rgba(41, 44, 152, 0.45);
+	padding: 20px;
+	border-radius: 25px;
+	text-align: center;
+}
+#quesform input[type=textbox] {
+	text-align: left;
+	border-radius: 20px;
+	width: 335px;
+	margin: 25px;
+	padding: 9px;
+	border: 0;
+}
+h2 {
+	color: white;
+}
+table {
+	margin:10% 20%;
+	border-collapse: collapse;
+	border:1px solid black;
+}
+th,td {
+	border-collapse: collapse;
+	border:1px solid black;
+	padding: 10px;
+}
+tr {
+	height: 30px;
+}*/

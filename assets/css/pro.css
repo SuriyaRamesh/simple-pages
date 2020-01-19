@@ -1,0 +1,13 @@
+.stu {
+    background-color: lightcyan;
+}
+#stu_form {
+    margin-left: 25%;
+    margin-right: 25%;
+ }
+#msg {
+    color: red;
+}
+.err {
+    border-color: red;
+}

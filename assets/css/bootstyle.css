@@ -1,0 +1,168 @@
+.header {
+	background-color: rgba(36, 33, 43, 0.69);
+	padding: 20px;
+	color: white;
+}
+.footer {
+	background-color: rgba(36, 33, 43, 0.69);
+	padding: 20px;
+	color: white;
+}
+body {
+	overflow-x: hidden;
+}
+#header {
+	background-color: rgba(36, 33, 43, 0.81);
+}
+.side_bar a {
+	color: white;
+}
+ul{
+	list-style: none;
+}
+
+ul.side_bar{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+li {
+	padding: 18px;
+}
+.side_bar li a, .side_bar li a:hover{
+	text-decoration: none;
+	text-align: left;
+}
+.side_bar li a i {
+	margin-right: 10px;
+}
+.side_bar li  span {
+	float: right;
+}
+.innerlist li {
+	padding:10px;
+}
+.col-md-10 {
+	background-color: white;
+}
+/*Breadcrumb Navigation*/
+.breadcrumb {
+	list-style: none;
+	background: white;
+	
+	padding: 0;
+}
+
+/*ul.breadcrumb li {
+	display: inline;
+	font-size: 18px;
+	content: "/\00a0"
+}
+ul.breadcrumb li a {
+	color: #0275d8;
+	text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+	color: #01447e;
+	text-decoration: none;
+}*/
+.col-md-10 h3 {
+	margin-top: 1%;
+    margin-left: 0%;
+    margin-bottom: 1%;
+}
+/*dashboard
+.row {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+.col-lg-4 {
+	width: 33.3%;
+	float: left;
+}
+.col-lg-4, .col-sm-6 {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.dashboard-stats .panel-box {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	border: 0;
+}
+.dashboard-stats .dash-st-1 {
+	background-color: dodgerblue;
+}*/
+.input-group {
+	padding: 10px;
+	margin-left: -1%;
+	margin-top: 2%;
+    margin-bottom: 3%;
+}
+.crs-btn {
+	background-color: rgba(94, 199, 50, 0.66);
+	border-radius: 5px;
+	border: 0;
+	padding: 10px 14px;
+	font-size: 10px;
+}
+.crs-btn a, i  {
+	color: white;
+	text-decoration: none;
+}
+.crs-btn a:hover {
+	color: black;
+	text-decoration: none;
+}
+.input-group button {
+	background:transparent;
+	border:0;
+}
+.crs-btn i {
+	margin: 0 7px 0 0;
+}
+.crs-btn a {
+	font-size: 14px;
+}
+.table {
+	margin-left: 0%;
+	margin-top: 3%;
+}
+.dropdown-menu i {
+	color: blue;
+}
+/*New Course page*/
+.courselabel {
+	margin: 6%;
+}
+.btn-row input {
+	float: right;
+}
+.btn-row a {
+	float: left;
+}
+#myform{
+	margin: 0% 0 0% 0;
+}
+.form-group {
+	padding: 5% 0;
+}
+.col-md-9 input {
+	margin-bottom: 30px;
+}
+
+.hom-1 {
+	background-color: dodgerblue;
+	float: left;
+}
+.panel-item {
+	padding: 45px 50px 45px 50px;
+}
+.panel-left i {
+	font-size: 42px;
+}
+
+.hom-2 {
+	float: right;
+}
